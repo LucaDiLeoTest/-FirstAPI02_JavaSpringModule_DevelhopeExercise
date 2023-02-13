@@ -1,2 +1,2 @@
-# -FirstAPI02_JavaSpringModule_DevelhopeExercise
+# FirstAPI02_JavaSpringModule_DevelhopeExercise
  FirstAPI02_JavaSpringModule_DevelhopeExercise
